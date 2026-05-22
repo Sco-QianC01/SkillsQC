@@ -28,9 +28,11 @@
 
 [🙏 传统文化与哲学](#传统文化与哲学) 
 
-[🌈 情感陪伴](#情感陪伴) 
+[🌈 情感陪伴](#情感陪伴)
 
 [🛠️ 工具类](#工具类)
+
+[🗂️ 合集收藏](#合集收藏)
 
 ### 职场与学术
 
@@ -80,6 +82,7 @@
 - [郭德纲.skill](https://github.com/ByteRax/guodegang-skills) - 江山父老能容我，不使人间造孽钱
 - [峰哥.skill](https://github.com/Walshyu/fengge-skill) - B 站纪录片创作者 峰哥亡命天涯（周丽峰）的思维操作系统
 - [童锦程.skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) - 让深情祖师爷童锦程用他的直白和人性洞察，帮你看透关系、读懂人心
+- [风骚律师.skill](https://github.com/YeJe-cpu/saul-goodman-skill) - 《风骚律师》/ Better Call Saul 中 Saul Goodman / Jimmy McGill / 索尔古德曼的角色蒸馏 skill：谈判、说服、找角度与表达 DNA
 - [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 教育/职业规划/阶层流动
 - [户晨风.skill](https://github.com/Janlaywss/hu-chenfeng-skill) - 用"购买力挑战"创作者户晨风的视角，帮你看消费选择、城市定居和个人发展
 - [凉兮 skills](https://github.com/1sh1ro/liangxi-skills) - 从公开可见的 X 内容与交易复盘中提炼凉兮的结构判断、风险习惯与中文交易表达
@@ -94,6 +97,8 @@
 - [毛选.skill](https://github.com/leezythu/maoxuan-skill) - 让毛选的思维框架帮你分析问题、制定策略、看透本质
 - [新青年.Skill](https://github.com/SamadhiFire/xinqingnian-skill) - 新青年来中国是能解决问题，会解决问题的
 - [奇门遁甲.skill](https://github.com/SerinaRica/qimen.skill) - 融汇天时、地利、人和与神助，运用古代“帝王之学”为你排盘推演
+- [永乐大典.skill](https://github.com/momozi1996/yongledadian-skill) - 世界有史以来最大的百科全书、华夏文明 600 年的超级著作，永乐大典，永存！
+
 
 ### 情感陪伴
 
@@ -111,11 +116,19 @@
 - [SBTI.Skill](https://github.com/whu125/sbti-skill) - 一套把 SBTI 人格原型打包成 Agent Skill 的生成器
 - [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) - 面向 SEO 内容场景的写作 skill，可围绕关键词生成博客、落地页与页面优化稿件
 - [多比.skill](https://github.com/LittleLittleCloud/Dobby) - 一个教AI如何使唤人类多比的skill
+- [大案牍库.skill](https://github.com/LittleLittleCloud/The-Grand-Archive/tree/main/skills/dak) - 专为 AI 设计的新闻档案库 Skill，覆盖 30+ 信源，每 30 分钟更新，可搜索、浏览并结构化分析新闻素材
 - [万物皆可角色.skill](https://github.com/MIMIFY/skill_everyone) - 小说、游戏、动漫、影视、自创角色——自动调研或手动喂料 + 心理建模，让ta开口说话陪伴
 - [达尔文.skill](https://github.com/alchaincyf/darwin-skill) - 像训练模型一样优化你的 Agent Skills
 - [博主蒸馏器.skill](https://github.com/otter1101/blogger-distiller) - 不靠喂料，主动出击——自动爬取任意小红书博主的全量笔记，蒸馏出可直接安装的创作指南 Skill
+- [PPT.skill](https://github.com/op7418/guizang-ppt-skill) - 制作电子杂志风网页 PPT
+
+### 合集收藏
+
+- [AI人格蒸馏Skills合集](https://github.com/momozi1996/awesome-ai-persona-skills) - 全网最全、持续更新的100+人格蒸馏skills合集｜名人/古籍/二次元/职场/情感全品类，含独家手工蒸馏的顶级作家创作思维。
 
 ---
+
+
 
 > **万物皆可 skill，人生处处是蒸馏。**
 

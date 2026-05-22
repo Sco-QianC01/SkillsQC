@@ -30,6 +30,8 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 
 [🛠️ Tools](#tools)
 
+[🗂️ Collections](#collections)
+
 ### Workplace & Academia
 
 - [Colleague.skill](https://github.com/titanwings/colleague-skill) - Turn cold departures into warm Skills
@@ -77,6 +79,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 
 - [GuoDegang.skill](https://github.com/ByteRax/guodegang-skills) - If the world and my elders can tolerate me, I won't make ill-gotten money
 - [FengGe.skill](https://github.com/Walshyu/fengge-skill) - Bilibili documentary creator Feng Wangming Tianya's (Zhou Lifeng) cognitive operating system
+- [Saul Goodman.skill](https://github.com/YeJe-cpu/saul-goodman-skill) - A distilled Saul Goodman / Jimmy McGill skill from Better Call Saul: negotiation, persuasion, angle-finding, and expression DNA
 - [ZhangXuefeng.skill](https://github.com/alchaincyf/zhangxuefeng-skill) - Education/Career Planning/Social Mobility
 - [HuChenfeng.skill](https://github.com/Janlaywss/hu-chenfeng-skill) - Use creator Hu Chenfeng's "Purchasing Power Challenge" perspective to help you see consumption choices, city settlement, and personal development
 - [Liangxi Skills](https://github.com/1sh1ro/liangxi-skills) - Distill Liangxi's structural market reading, risk habits, and Chinese trading voice from public X posts and trade replays
@@ -92,6 +95,8 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [MaoXuan.skill](https://github.com/leezythu/maoxuan-skill) - Let the Mao Zedong's Selected Works thinking framework help you analyze problems, formulate strategies, and see through to the essence
 - [NewYouth.skill](https://github.com/SamadhiFire/xinqingnian-skill) - New Youth comes to China to solve problems and knows how to solve them
 - [Qimen.skill](https://github.com/SerinaRica/qimen.skill) - Integrates Heaven, Earth, Human, and Divine elements. Uses the ancient "Emperor's Art" to map out dynamic matrices.
+- [YongleDadian.skill](https://github.com/momozi1996/yongledadian-skill) - The largest encyclopedia in history, a monumental work of Chinese civilization spanning 600 years — the Yongle Dadian lives on!
+
 
 ### Emotional Companionship
 
@@ -109,9 +114,15 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [SBTI.skill](https://github.com/whu125/sbti-skill) - A generator that packages SBTI personality archetypes into Agent Skills
 - [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) - An SEO writing skill that turns keywords into blog posts, landing pages, and content rewrites
 - [Dobby.skill](https://github.com/LittleLittleCloud/Dobby) - A skill to teach AI how to use human as DOBBY.
+- [DAK News.skill](https://github.com/LittleLittleCloud/The-Grand-Archive/tree/main/skills/dak) - News archive skill designed for AI, covering 30+ sources and updating every 30 minutes for searching, browsing, and structured news analysis
 - [Skill_Everyone.skill](https://github.com/MIMIFY/skill_everyone) - Novels, games, anime, films, your own OC — auto-research or manual feed + psychological modeling, let them speak and stay with you.
 - [Darwin.skill](https://github.com/alchaincyf/darwin-skill) - Optimize your Agent Skills the way you train models
 - [BloggerDistiller.skill](https://github.com/otter1101/blogger-distiller) - Not relying on feeding, but taking the initiative — automatically crawl all notes from any Xiaohongshu blogger and distill a directly installable creation guide Skill.
+- [PPT.skill](https://github.com/op7418/guizang-ppt-skill) - Create digital magazine-style web presentations
+
+### Collections
+
+- [AI Persona Skills Collection](https://github.com/momozi1996/awesome-ai-persona-skills) - The web's most comprehensive, continuously updated collection of 100+ distilled skills spanning celebrities/classics/anime/workplace/relationships — plus exclusive novelists' writing styles.
 ---
 
 ## 🧠 One-Line Philosophy
