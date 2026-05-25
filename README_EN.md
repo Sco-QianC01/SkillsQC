@@ -85,6 +85,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [Liangxi Skills](https://github.com/1sh1ro/liangxi-skills) - Distill Liangxi's structural market reading, risk habits, and Chinese trading voice from public X posts and trade replays
 - [TongJincheng.skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) - Let the master of deep affection Tong Jincheng help you see through relationships and understand human nature with his directness and insight
 - [Khazix.skill](https://github.com/KKKKhazix/khazix-skills) - Open-source AI Skills collection from digital life Khazix
+- [Heya.skill](https://github.com/ChouChiu/heya.skill) - Deep analysis based on Bilibili creator Heya's video titles — teach AI Heya's signature style: long titles, emotional hooks, multi-event merging
 
 ### Traditional Culture & Philosophy
 
