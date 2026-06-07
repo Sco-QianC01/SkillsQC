@@ -86,7 +86,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [TongJincheng.skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) - Let the master of deep affection Tong Jincheng help you see through relationships and understand human nature with his directness and insight
 - [Khazix.skill](https://github.com/KKKKhazix/khazix-skills) - Open-source AI Skills collection from digital life Khazix
 - [Heya.skill](https://github.com/ChouChiu/heya.skill) - Deep analysis based on Bilibili creator Heya's video titles — teach AI Heya's signature style: long titles, emotional hooks, multi-event merging
-
+- [Yongge.skill](https://github.com/qq6690876/yongge-perspective) - Restaurant anti-fraud thought operating system distilled from Sun Jiyong , the most-watched "restaurant anti-fraud" livestream host on Douyin/Bilibili with 5M+ followers and "Most Influential IP" awards in 2024 & 2025
 ### Traditional Culture & Philosophy
 
 - [Fortune.skill](https://github.com/jinchenma94/bazi-skill) - Collect birth information through interactive dialogue, calculate Four Pillars (Bazi), and analyze based on nine classic texts
