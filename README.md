@@ -110,6 +110,7 @@
 
 ### 工具类
 
+- **[AI Delivery Spec](https://github.com/franklinxkk/ai-delivery-spec)** - Spec-driven delivery framework: PRD+FRR+AC-YAML+WBS from prototypes. Works with Claude Code/Cursor/Codex. v4.9.7.
 - [饕餮.skill](https://github.com/binggandata/bggg-skill-taotie) - 把优秀的 Skill 喂给饕餮，让你的 Skill 自己进化
 - [女娲.skill](https://github.com/alchaincyf/nuwa-skill) - 女娲帮你蒸馏任何人的思维方式，让乔布斯、马斯克、芒格、费曼都给你打工
 - [X导师.skill](https://github.com/alchaincyf/x-mentor-skill) - 格式化是你能对写作做的最简单的10倍提升
@@ -117,6 +118,7 @@
 - [图鉴.skill](https://github.com/Aar0nPB/curator-skill) - 跨作者 persona skill 调度器，根据对话意图从 persona skill 列表中智能匹配推荐
 - [SBTI.Skill](https://github.com/whu125/sbti-skill) - 一套把 SBTI 人格原型打包成 Agent Skill 的生成器
 - [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) - 面向 SEO 内容场景的写作 skill，可围绕关键词生成博客、落地页与页面优化稿件
+- [NotFair.skill](https://github.com/nowork-studio/NotFair) - 面向 SEO、Google Ads 与 Meta Ads 的开源 Claude Code Skills 合集；通过 Google Ads MCP、Meta Ads MCP、Google Search Console MCP 和 Google Analytics (GA4) MCP 连接实时数据，覆盖关键词研究、元标签优化、Schema 标记、广告审计与竞价管理等场景
 - [多比.skill](https://github.com/LittleLittleCloud/Dobby) - 一个教AI如何使唤人类多比的skill
 - [大案牍库.skill](https://github.com/LittleLittleCloud/The-Grand-Archive/tree/main/skills/dak) - 专为 AI 设计的新闻档案库 Skill，覆盖 30+ 信源，每 30 分钟更新，可搜索、浏览并结构化分析新闻素材
 - [万物皆可角色.skill](https://github.com/MIMIFY/skill_everyone) - 小说、游戏、动漫、影视、自创角色——自动调研或手动喂料 + 心理建模，让ta开口说话陪伴
