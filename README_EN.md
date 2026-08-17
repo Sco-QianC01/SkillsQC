@@ -30,8 +30,6 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 
 [🛠️ Tools](#tools)
 
-[🗂️ Collections](#collections)
-
 ### Workplace & Academia
 
 - [Colleague.skill](https://github.com/titanwings/colleague-skill) - Turn cold departures into warm Skills
@@ -82,7 +80,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [Saul Goodman.skill](https://github.com/YeJe-cpu/saul-goodman-skill) - A distilled Saul Goodman / Jimmy McGill skill from Better Call Saul: negotiation, persuasion, angle-finding, and expression DNA
 - [ZhangXuefeng.skill](https://github.com/alchaincyf/zhangxuefeng-skill) - Education/Career Planning/Social Mobility
 - [HuChenfeng.skill](https://github.com/Janlaywss/hu-chenfeng-skill) - Use creator Hu Chenfeng's "Purchasing Power Challenge" perspective to help you see consumption choices, city settlement, and personal development
-- [Liangxi Skills](https://github.com/1sh1ro/liangxi-skills) - Distill Liangxi's structural market reading, risk habits, and Chinese trading voice from public X posts and trade replays
+- [Liangxi.skills](https://github.com/1sh1ro/liangxi-skills) - Distill Liangxi's structural market reading, risk habits, and Chinese trading voice from public X posts and trade replays
 - [TongJincheng.skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) - Let the master of deep affection Tong Jincheng help you see through relationships and understand human nature with his directness and insight
 - [Khazix.skill](https://github.com/KKKKhazix/khazix-skills) - Open-source AI Skills collection from digital life Khazix
 - [Heya.skill](https://github.com/ChouChiu/heya.skill) - Deep analysis based on Bilibili creator Heya's video titles — teach AI Heya's signature style: long titles, emotional hooks, multi-event merging
@@ -114,25 +112,18 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [Curator.skill](https://github.com/Aar0nPB/curator-skill) - Cross-author persona skill scheduler that intelligently matches and recommends from persona skill lists based on conversation intent
 - [SBTI.skill](https://github.com/whu125/sbti-skill) - A generator that packages SBTI personality archetypes into Agent Skills
 - [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) - An SEO writing skill that turns keywords into blog posts, landing pages, and content rewrites
-- [NotFair.skill](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP — covering keyword research, meta tags, schema markup, ad audits, and bid management
 - [Dobby.skill](https://github.com/LittleLittleCloud/Dobby) - A skill to teach AI how to use human as DOBBY.
 - [DAK News.skill](https://github.com/LittleLittleCloud/The-Grand-Archive/tree/main/skills/dak) - News archive skill designed for AI, covering 30+ sources and updating every 30 minutes for searching, browsing, and structured news analysis
-- [Skill_Everyone.skill](https://github.com/MIMIFY/skill_everyone) - Novels, games, anime, films, your own OC — auto-research or manual feed + psychological modeling, let them speak and stay with you.
+- [Skill Everyone.skill](https://github.com/MIMIFY/skill_everyone) - Novels, games, anime, films, your own OC — auto-research or manual feed + psychological modeling, let them speak and stay with you.
 - [Darwin.skill](https://github.com/alchaincyf/darwin-skill) - Optimize your Agent Skills the way you train models
 - [BloggerDistiller.skill](https://github.com/otter1101/blogger-distiller) - Not relying on feeding, but taking the initiative — automatically crawl all notes from any Xiaohongshu blogger and distill a directly installable creation guide Skill.
 - [PPT.skill](https://github.com/op7418/guizang-ppt-skill) - Create digital magazine-style web presentations
-
-### Collections
-
-- [AI Persona Skills Collection](https://github.com/momozi1996/awesome-ai-persona-skills) - The web's most comprehensive, continuously updated collection of 100+ distilled skills spanning celebrities/classics/anime/workplace/relationships — plus exclusive novelists' writing styles.
----
+- [HumanWriting.skill](https://github.com/KKKKhazix/human-writing) - Human-like writing — make AI-written articles read like a specific person speaking — knowing things, having judgments, occasionally wandering off, and being able to come back
+- [Director.skill](https://github.com/kangarooking/director-skills) - Let Agent act like a director, organizing creativity, scripts, storyboards, generation and final cuts into executable AI video workflows
+- [Cangjie.skill](https://github.com/kangarooking/cangjie-skill) - Distill methodologies from books, long videos, and podcasts into callable AI Skills
 
 ## 🧠 One-Line Philosophy
 
 > **Everything can be a skill, life is full of distillation.**
 
 Welcome to PR your own `.skill` 🔧
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tmstack/awesome-persona-skills&type=Date)](https://star-history.com/#tmstack/awesome-persona-skills&Date)
